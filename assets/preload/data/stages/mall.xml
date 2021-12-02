@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stage camZoom="0.8">
+    <image name="bgWalls" x="-1000" y="-500" scrollX="0.2" scrollY="0.2" size="0.8" />
+
+    <image name="upperBop" x="-240" y="-90" scrollX="0.33" scrollY="0.33" size="0.85" animation="Upper Crowd Bob" />
+
+    <image name="bgEscalator" x="-1100" y="-600" scrollX="0.3" scrollY="0.3" size="0.9" />
+
+    <image name="christmasTree" x="370" y="-250" scrollX="0.4" scrollY="0.4" />
+
+    <image name="bottomBop" x="-300" y="140" scrollX="0.9" scrollY="0.9" animation="Bottom Level Boppers" />
+
+    <image name="fgSnow" x="-600" y="700" />
+
+    <image name="santa" x="-840" y="150" animation="santa idle in fear" />
+</stage>

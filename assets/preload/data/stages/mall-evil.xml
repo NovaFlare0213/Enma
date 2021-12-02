@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stage>
+    <image name="evilBG" x="-400" y="-500" scrollX="0.2" scrollY="0.2" size="0.8" />
+
+    <image name="evilTree" x="300" y="-300" scrollX="0.2" scrollY="0.2" />
+
+    <image name="evilSnow" x="-200" y="700" />
+</stage>
